@@ -8,24 +8,41 @@ Projeto final do curso de Python da Coderhouse. Pipeline completo de dados da AP
 
 ## Como Instalar
 
-Instruções passo a passo sobre como instalar o projeto e suas dependências.
+Siga estes passos para instalar o projeto e todas as dependências necessárias.
 
-## Como Usar
+Clone o repositório do projeto
 
-Exemplos de como utilizar o projeto, incluindo comandos e snippets de código.
+Primeiro, clone o repositório do projeto para a sua máquina local usando o comando git:
 
-## Documentação
+    git clone "https://github.com/vidalgui/pipeline-restcountries.git"
+    cd pipeline-restcountries
 
-Links para a documentação completa.
+Crie um ambiente virtual (opcional, mas recomendado)
 
-## Como Contribuir
+    python -m venv env
 
-Instruções para contribuidores potenciais.
+Para ativar o ambiente virtual, execute:
 
-## Licença
+No Linux ou macOS:
 
-Detalhes da licença do projeto.
+    source env/bin/activate
+    
+
+No Windows (cmd.exe):
+
+    env\Scripts\activate.bat
+
+
+No Windows (PowerShell):
+
+    env\Scripts\Activate.ps1
+Instale as dependências
+
+Com o ambiente virtual ativado, instale as dependências do projeto listadas no arquivo requirements.txt usando o comando pip.
+
+    pip install -r requirements.txt
+
 
 ## Contato
 
-Informações de contato.
+[GitHub](https://github.com/vidalgui)

@@ -4,7 +4,7 @@ Projeto final do curso de Python da Coderhouse. Pipeline completo de dados da AP
 
 ## Status do Projeto
 
-[Em desenvolvimento]
+[Concluido]
 
 ## Como Instalar
 
@@ -41,6 +41,10 @@ Instale as dependências
 Com o ambiente virtual ativado, instale as dependências do projeto listadas no arquivo requirements.txt usando o comando pip.
 
     pip install -r requirements.txt
+
+## Como Contribuir
+
+Estamos muito felizes por você estar interessado em contribuir para o nosso projeto! Contribuições são sempre bem-vindas, seja na forma de sugestões de funcionalidades, relatórios de bugs, correções ou melhorias na documentação. Siga estes passos para tornar o processo de contribuição suave para todos.
 
 
 ## Contato
